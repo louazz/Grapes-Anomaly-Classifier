@@ -1,5 +1,5 @@
 ## Grapes anomaly detector
-The notebook above represents an anomaly detector that is able to recognize a Healthy leaf from Black Rot, ESCA, orS Blight leafs.
+The notebook above represents an anomaly detector that is able to recognize a Healthy leaf from Black Rot, ESCA, or Blight leafs.
 
 The pipeline consists of a feature extractor which is the efficient net along with an output dense layer that can differentiate the 4 classes.
 
